@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 3,
             nombre: 'Calabacin',
             precio: 2.1,
-            imagen: 'calabacin.jpeg'
+            imagen: ' calabacin.jpeg'
         },
         {
             id: 4,
